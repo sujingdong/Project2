@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/sujin/project2/project2/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g -std=gnu11 -o CMakeFiles\\project2.dir\\main.c.obj -c C:\\Users\\sujin\\project2\\project2\\main.c",
+  "file": "C:/Users/sujin/project2/project2/main.c"
+},
+{
+  "directory": "C:/Users/sujin/project2/project2/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g -std=gnu11 -o CMakeFiles\\project2.dir\\twitter_create.c.obj -c C:\\Users\\sujin\\project2\\project2\\twitter_create.c",
+  "file": "C:/Users/sujin/project2/project2/twitter_create.c"
+},
+{
+  "directory": "C:/Users/sujin/project2/project2/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g -std=gnu11 -o CMakeFiles\\project2.dir\\printing.c.obj -c C:\\Users\\sujin\\project2\\project2\\printing.c",
+  "file": "C:/Users/sujin/project2/project2/printing.c"
+},
+{
+  "directory": "C:/Users/sujin/project2/project2/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g -std=gnu11 -o CMakeFiles\\project2.dir\\functionality.c.obj -c C:\\Users\\sujin\\project2\\project2\\functionality.c",
+  "file": "C:/Users/sujin/project2/project2/functionality.c"
+}
+]
